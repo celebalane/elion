@@ -10,4 +10,4 @@ Rentrer manuellement un utilisateur pour pouvoir tester la connexion
 
 ## tester le formulaire de contact  
 
-Dans le fichier contact.php, dans la fonction my_mail, remplir les champs : Username, Password et addAdress avec les identifiants de sa boite mail
+Dans le dossier pages, ouvrir le fichier contact.php, dans la fonction my_mail, remplir les champs : Username, Password et addAdress avec les identifiants de sa boite mail
