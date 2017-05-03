@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Cabin', sans-serif;
+  color: #282C37; }
+
+#imgAccueil {
+  margin-top: 3%;
+  width: 100%;
+  height: 500px;
+  background-image: url("../img/accueil.jpg");
+  background-size: cover; }
+  #imgAccueil h1 {
+    padding-top: 20%;
+    margin-bottom: 5%;
+    text-align: center;
+    font-family: 'Martel', serif;
+    font-size: 6em;
+    font-weight: 900;
+    color: white; }
+  #imgAccueil a {
+    margin-left: 47%;
+    color: white;
+    font-size: 2em; }
+
+.navbar {
+  margin: 2% 0 0 -8%; }
+  .navbar a {
+    color: #282C37;
+    font-size: 1.5em; }
+  .navbar a:hover {
+    color: #2B90D9; }
+
+#presentation {
+  padding: 5%;
+  font-size: 1.2em; }
+  #presentation h1 {
+    font-family: 'Martel', serif;
+    font-size: 3em;
+    font-weight: 900;
+    color: #2B90D9; }
+  #presentation .row {
+    margin-bottom: 5%; }
+  #presentation #innovation {
+    margin-top: -1%; }
+  #presentation #imgTech {
+    margin-top: 2%; }
+
+#imgProjet {
+  margin-top: 5%;
+  background-image: url("../img/projet.jpg");
+  height: 400px; }
+
+#texteProjet {
+  margin-top: 8%;
+  margin-left: 4%;
+  color: white;
+  font-size: 1.1em; }
+
+#restez {
+  position: absolute;
+  top: 20px;
+  right: 80px;
+  font-size: 2em;
+  font-style: italic;
+  color: white; }
+
+#contact {
+  margin-top: 4%;
+  background-image: url("../img/contact.jpg");
+  background-size: cover;
+  height: 450px; }
+  #contact h1 {
+    font-family: 'Martel', serif;
+    font-size: 3em;
+    font-weight: 900; }
+
+form label {
+  color: #2B90D9;
+  font-weight: 700;
+  font-size: 1.1em; }
+form .btn-default {
+  background-color: #2B90D9;
+  color: white;
+  border: none; }
+
+#login h1 {
+  font-family: 'Martel', serif;
+  font-size: 3em;
+  font-weight: 900;
+  margin-top: 2%;
+  margin-left: 5%; }
+#login p {
+  margin-left: 5%; }
+#login form {
+  margin-top: 5%; }
+  #login form input {
+    margin-bottom: 3%; }
+  #login form .btn {
+    background-color: #2B90D9;
+    border: none; }
